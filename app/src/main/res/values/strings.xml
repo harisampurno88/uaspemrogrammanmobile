@@ -1,14 +1,25 @@
 <resources>
     <string name="app_name">GeoFlora Unimal</string>
-    <string name="login_title">Masuk ke GeoFlora</string>
-    <string name="register_title">Daftar Akun Baru</string>
-    <string name="email_hint">Email</string>
-    <string name="password_hint">Kata Sandi</string>
+    <string name="subtitle_auth">Pemetaan &amp; Katalog Spesies Pohon Kampus</string>
+    <string name="login_title">Masuk ke Akun</string>
+    <string name="register_title">Buat Akun Baru</string>
+
     <string name="name_hint">Nama Lengkap</string>
+    <string name="email_hint">Alamat Email</string>
+    <string name="password_hint">Kata Sandi (Min. 6 karakter)</string>
+
     <string name="btn_login">Masuk</string>
-    <string name="btn_register">Daftar</string>
+    <string name="btn_register">Daftar Sekarang</string>
+    <string name="btn_logout">Keluar (Logout)</string>
+
     <string name="no_account">Belum punya akun? Daftar di sini</string>
     <string name="have_account">Sudah punya akun? Masuk di sini</string>
-    <string name="empty_data">Belum ada data pohon terdaftar.\nTekan tombol (+) untuk menambahkan.</string>
-    <string name="loading_location">Mengambil koordinat GPS…</string>
+
+    <!-- Pesan Validasi & Error -->
+    <string name="err_empty_name">Nama lengkap tidak boleh kosong</string>
+    <string name="err_empty_email">Email tidak boleh kosong</string>
+    <string name="err_invalid_email">Format email tidak valid</string>
+    <string name="err_empty_password">Kata sandi tidak boleh kosong</string>
+    <string name="err_short_password">Kata sandi minimal 6 karakter</string>
+    <string name="welcome_user">Selamat datang, %1$s!</string>
 </resources>
