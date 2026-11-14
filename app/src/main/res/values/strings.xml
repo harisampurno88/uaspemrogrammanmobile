@@ -22,4 +22,26 @@
     <string name="err_empty_password">Kata sandi tidak boleh kosong</string>
     <string name="err_short_password">Kata sandi minimal 6 karakter</string>
     <string name="welcome_user">Selamat datang, %1$s!</string>
+
+    <!-- Navigasi & Menu Utama -->
+    <string name="nav_home">Katalog</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Katalog & Pencarian -->
+    <string name="search_hint">Cari nama spesies pohon…</string>
+    <string name="empty_plant_list">Belum ada data pohon terdaftar.\nTekan tombol (+) di pojok kanan bawah untuk menambahkan.</string>
+    <string name="uploaded_by">Oleh: %1$s</string>
+
+    <!-- Form Tambah / Edit -->
+    <string name="title_add_plant">Tambah Data Pohon</string>
+    <string name="title_edit_plant">Edit Data Pohon</string>
+    <string name="hint_species_name">Nama Spesies / Pohon</string>
+    <string name="hint_description">Deskripsi / Lokasi Spesifik (misal: Depan Gedung Teknik)</string>
+    <string name="btn_take_photo">Ambil Foto Pohon</string>
+    <string name="btn_save_plant">Simpan Data Pohon</string>
+    <string name="status_getting_gps">Mengambil koordinat GPS…</string>
+    <string name="status_gps_ready">Lokasi GPS terkunci: %1$.5f, %2$.5f</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
