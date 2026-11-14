@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">uaspemrogrammanmobile</string>
+    <string name="app_name">GeoFlora Unimal</string>
+    <string name="login_title">Masuk ke GeoFlora</string>
+    <string name="register_title">Daftar Akun Baru</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="name_hint">Nama Lengkap</string>
+    <string name="btn_login">Masuk</string>
+    <string name="btn_register">Daftar</string>
+    <string name="no_account">Belum punya akun? Daftar di sini</string>
+    <string name="have_account">Sudah punya akun? Masuk di sini</string>
+    <string name="empty_data">Belum ada data pohon terdaftar.\nTekan tombol (+) untuk menambahkan.</string>
+    <string name="loading_location">Mengambil koordinat GPS…</string>
 </resources>
